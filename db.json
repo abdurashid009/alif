@@ -1,0 +1,165 @@
+{
+  "maxsulotlar": [
+    {
+      "nom": "Chillwell Shiva Elegant",
+      "narxi": 2790000,
+      "chegirma": "-27%",
+      "tavsif": "12 IV Inverter, Белый",
+      "rasm": "./src/assets/img1.png"
+    },
+    {
+      "nom": "Chillwell RHMG DFZ-27",
+      "narxi": 2690000,
+      "chegirma": "-10%",
+      "tavsif": "Xonadonlik Rossiya RHMG",
+      "rasm": "./src/assets/img2.png"
+    },
+    {
+      "nom": "Chillwell Bestway",
+      "narxi": 5750000,
+      "chegirma": "-33%",
+      "tavsif": "5 картридж, Белый",
+      "rasm": "./src/assets/img3.png"
+    },
+    {
+      "nom": "Chillwell TCL TAC-09CH",
+      "narxi": 4890000,
+      "chegirma": "-15%",
+      "tavsif": "ELT INVI, Белый",
+      "rasm": "./src/assets/img4.png"
+    },
+    {
+      "nom": "Chillwell Solar Fan Charger",
+      "narxi": 699000,
+      "chegirma": "-16%",
+      "tavsif": "Беспроводная солнечная зарядка",
+      "rasm": "./src/assets/img5.png"
+    },
+    {
+      "nom": "Chillwell Arctic ACSM24WZH",
+      "narxi": 4990000,
+      "chegirma": "-30%",
+      "tavsif": "Кондиционер Arctic",
+      "rasm": "./src/assets/img6.png"
+    },
+    {
+      "nom": "Samsung Galaxy A16",
+      "narxi": 2490000,
+      "chegirma": null,
+      "tavsif": "4/128 ГБ, Черный",
+      "rasm": "./src/assets/img7.png"
+    },
+    {
+      "nom": "Xiaomi Redmi 14C",
+      "narxi": 1965000,
+      "chegirma": null,
+      "tavsif": "8/256 ГБ, Черный",
+      "rasm": "./src/assets/img8.jpg"
+    },
+    {
+      "nom": "Apple iPhone 16 Pro Max 256GB",
+      "narxi": 19999000,
+      "chegirma": null,
+      "tavsif": "От 1 458 867 сум/мес",
+      "rasm": "./src/assets/img9.png"
+    },
+    {
+      "nom": "Razer Tartarus Pro",
+      "narxi": 2580000,
+      "chegirma": null,
+      "tavsif": "СОР 88085-Wi-Fi-черный",
+      "rasm": "./src/assets/img10.png"
+    },
+    {
+      "nom": "Atmor Marvel 12E Inverter",
+      "narxi": 4590000,
+      "chegirma": null,
+      "tavsif": "СИММ40 12E Inverter",
+      "rasm": "./src/assets/img11.jpg"
+    },
+    {
+      "nom": "Norye Bowl Internet",
+      "narxi": 3340000,
+      "chegirma": null,
+      "tavsif": "Еда 2 в 1, Голубой",
+      "rasm": "./src/assets/img12.png"
+    },
+    {
+      "nom": "BYD Auto",
+      "narxi": 97350000,
+      "chegirma": null,
+      "tavsif": "Электромобиль BYD E2 405 км, серый",
+      "rasm": "./src/assets/img13.jpg"
+    },
+    {
+      "nom": "Electrolux Elite 408",
+      "narxi": 3720000,
+      "chegirma": null,
+      "tavsif": "Серый",
+      "rasm": "./src/assets/img14.png"
+    },
+    {
+      "nom": "Tenebrae Vista Smart V32LH480S",
+      "narxi": 1040000,
+      "chegirma": null,
+      "tavsif": "32ZH480S 32, черный",
+      "rasm": "./src/assets/img15.png"
+    },
+    {
+      "nom": "Platinum Tecsar P307 A128",
+      "narxi": 1240000,
+      "chegirma": null,
+      "tavsif": "От 124 686 сум/мес",
+      "rasm": "./src/assets/img16.jpg"
+    },
+    {
+      "nom": "Acer Aspire Lite NX.BE0EK.001",
+      "narxi": 2190000,
+      "chegirma": null,
+      "tavsif": "Ноутбук Acer Aspire Lite",
+      "rasm": "./src/assets/img17.jpg"
+    },
+    {
+      "nom": "PlayStation 5 1TB Digital",
+      "narxi": 9240000,
+      "chegirma": null,
+      "tavsif": "PlayStation 5 1TB Digital",
+      "rasm": "./src/assets/img18.png"
+    },
+    {
+      "nom": "Everest Inverter",
+      "narxi": 5000000,
+      "chegirma": "-15%",
+      "tavsif": "Кондиционер Everest Inverter",
+      "rasm": "./src/assets/img19.png"
+    },
+    {
+      "nom": "iPhone 16 Pro Max",
+      "narxi": 18999000,
+      "chegirma": "-20%",
+      "tavsif": "От 1 389 867 сум/мес",
+      "rasm": "./src/assets/img20.png"
+    },
+    {
+      "nom": "Chillwell Fan",
+      "narxi": 650000,
+      "chegirma": null,
+      "tavsif": "Вентилятор Chillwell",
+      "rasm": "./src/assets/img21.png"
+    },
+    {
+      "nom": "Samsung Ultra",
+      "narxi": 14999000,
+      "chegirma": null,
+      "tavsif": "От 1 099 865 сум/мес",
+      "rasm": "./src/assets/img22.png"
+    },
+    {
+      "nom": "PlayStation 5 Controller",
+      "narxi": 1500000,
+      "chegirma": "-31%",
+      "tavsif": "Контроллер PS5",
+      "rasm": "./src/assets/img23.png"
+    }
+  ]
+}
