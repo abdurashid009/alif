@@ -139,7 +139,10 @@ const ProductList = ({ addToCart, addToLiked, liked }) => {
                 src={product.rasm}
                 alt={product.nom}
                 className="w-full p-[30px] h-45 object-cover"
-                onError={(e) => (e.target.src = "/fallback-image.jpg")}
+                onError={(e) =>
+                  (e.target.src =
+                    "https://watchdiana.fail/blog/wp-content/themes/koji/assets/images/default-fallback-image.png")
+                }
               />
               <div className="p-2 text-center">
                 <h3 className="text-sm font-medium text-gray-800 truncate">
